@@ -30,7 +30,7 @@
 	  <!-- use android version at runtime to retain java7 compatibility for GAE -->
 	  <groupId>com.google.guava</groupId>
 	  <artifactId>guava</artifactId>
-	  <version>20.0</version>
+	  <version>30.0-android</version>
 	  <type>jar</type>
 	  <scope>compile</scope>
 	</dependency>
